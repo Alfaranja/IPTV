@@ -1,6 +1,8 @@
 #EXTVLCOPT:network-caching=1000
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTVLCOPT:network-caching=2000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
@@ -994,3 +996,136 @@ http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL ecbf --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass 89ad --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" tvg-id="DAZN LaLiga HD" group-title="DAZN LaLiga", DAZN La Liga 1 FHD - Elcano
+http://127.0.0.1:6878/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" tvg-id="DAZN LaLiga HD" group-title="DAZN LaLiga", DAZN La Liga 1 FHD - Elcano
+http://127.0.0.1:6878/ace/getstream?id=3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" tvg-id="DAZN LaLiga HD" group-title="DAZN LaLiga", DAZN La Liga 1 FHD - Elcano
+http://127.0.0.1:6878/ace/getstream?id=922edf7e1c015026082b7f8061cf8159cb4afafd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" tvg-id="DAZN LaLiga 2 HD" group-title="DAZN LaLiga", DAZN La Liga 2 FHD - New Era
+http://127.0.0.1:6878/ace/getstream?id=ca68dcfdb27883d3877a5eec68f8ea9d2d31ae1d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" tvg-id="DAZN F1 HD" group-title="DAZN F1", DAZN F1 4K - New Era
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" tvg-id="M+ LaLiga TV HD" group-title="LaLiga TV", M+ LALIGA FHD - Elcano
+http://127.0.0.1:6878/ace/getstream?id=c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" tvg-id="M+ LaLiga TV HD" group-title="LaLiga TV", M+ LALIGA FHD - Elcano
+http://127.0.0.1:6878/ace/getstream?id=a0c7f911f35d72c1abc86c89604e1d4171bf664f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 4
+http://127.0.0.1:6878/ace/getstream?id=1c25bdd6be50b69d4da12cbbc25a50be169414e4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 5
+http://127.0.0.1:6878/ace/getstream?id=84b8fd1ceddf7976464208e1d15fe776f9ab35e3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 6
+http://127.0.0.1:6878/ace/getstream?id=0c847d3acd9c4a31a815330ad7f546c30851aa88
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 7
+http://127.0.0.1:6878/ace/getstream?id=a4ea8b888b5b11a3d08498d7bc858c564b5be423
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 8
+http://127.0.0.1:6878/ace/getstream?id=233ba21691ea262caae00b0af171347c54c315f6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 9
+http://127.0.0.1:6878/ace/getstream?id=ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 10
+http://127.0.0.1:6878/ace/getstream?id=ef7f710a5133477237b06ea023a4f20017ea0262
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD" group-title="LaLiga Hypermotion", LALIGA Smartbank 3
+http://127.0.0.1:6878/ace/getstream?id=8208e9dd4ae737d309c826efd919b48b484b1635
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia%20HD.png" tvg-id="M+ Comedia HD" group-title="Movistar+ Entertainment", Â©Comediaâ©Ï¸- New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=981002ae3adff1f7d994e267cafd71560dd3138b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama%20HD.png" tvg-id="M+ Drama HD" group-title="Movistar+ Entertainment", Â©Darkâ©Ï¸- New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=95c63003b21aca0cf03b09918ae1653327081f1f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama%20HD.png" tvg-id="M+ Drama HD" group-title="Movistar+ Entertainment", Â©Dramaâ©Ï¸- New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=2f30e21bc0b16214998de4c1d7afb395fd39970b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos%20HD.png" tvg-id="M+ Estrenos HD" group-title="Movistar+ Entertainment", Â©Estrenosâ©Ï¸- New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=31db55dba09dc6804a30d016fc1104f2f0076508
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits%20HD.png" tvg-id="M+ Hits HD" group-title="Movistar+ Entertainment", Â©Hitsâ©Ï¸- New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=8eeb24559dcf87c074ec62d23ddcf43d5c70abbc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" tvg-id="M+ Indie" group-title="Movistar+ Entertainment", Â©Indieâ©Ï¸- New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=490bbb38d3f47c823a35305ee537d141cd8fe426
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Raw.Githubusercontent.Com/Tv-Logo/Tv-Logos/Refs/Heads/Main/Countries/Spain/Dazn-Laliga-2-Es.Png
+http://127.0.0.1:6878/ace/getstream?id=fb51ef5294e99767811a3fa95a1933fb864e9ff3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", /Srv/Imgs/Html/289267/Lh4.Png
+http://127.0.0.1:6878/ace/getstream?id=0829094f216f639b2ac2d00b6cccce6585de6c7b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", /Srv/Imgs/Html/289267/Lh5.Png
+http://127.0.0.1:6878/ace/getstream?id=061f42fcaa7632fb0a889272a731036d033cddf5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", /Srv/Imgs/Html/289267/Liga%20Campeones%201.Png
+http://127.0.0.1:6878/ace/getstream?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", /Srv/Imgs/Html/289267/F1.Png
+http://127.0.0.1:6878/ace/getstream?id=4b1066552d40ac452ab408c97fc3215699a52c4f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", /Srv/Imgs/Html/289267/0000%20-%20Copia%20(32)(1).Png
+http://127.0.0.1:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", /Srv/Imgs/Html/289267/Rwwwxv1441657735.Png
+http://127.0.0.1:6878/ace/getstream?id=7225e4b281975f1a36d61dfd9724b669d7747b70
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Data:Image/Jpeg;Base64,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
+http://127.0.0.1:6878/ace/getstream?id=cd485af78cf86934d77cf867f73fe7f5cd32981a
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Dz-Ll-3-1080.Jpg
+http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Dz-Ll-4-1080.Jpg
+http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-1080.Jpg
+http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-720.Jpg
+http://127.0.0.1:6878/ace/getstream?id=8edb264520569b2280c5e86b2dc734e120032903
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-3-1080.Jpg
+http://127.0.0.1:6878/ace/getstream?id=3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-7.Jpg
+http://127.0.0.1:6878/ace/getstream?id=b7f47db93dced60f54e8f89e2366ed061b534049
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-12.Jpg
+http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-3-720.Jpg
+http://127.0.0.1:6878/ace/getstream?id=0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-8.Jpg
+http://127.0.0.1:6878/ace/getstream?id=d298c6e5c8be71f5995b45289c6388b225318b3c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2025/01/Mov-Lc-13.Jpg
+http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-4.Jpg
+http://127.0.0.1:6878/ace/getstream?id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-9.Jpg
+http://127.0.0.1:6878/ace/getstream?id=2d7c4cfb3987b652a779afc894cca2fccbbacf21
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-5.Jpg
+http://127.0.0.1:6878/ace/getstream?id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-10.Jpg
+http://127.0.0.1:6878/ace/getstream?id=c056f9e180cd7d40963129a17ff54f4ee8259353
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-6.Jpg
+http://127.0.0.1:6878/ace/getstream?id=fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Lc-11.Jpg
+http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" tvg-id="M+ Copa del Rey" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2025/01/Coparey.Jpg
+http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Dep-4-1080.Jpg
+http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Mov-Dep-3-1080.Jpg
+http://127.0.0.1:6878/ace/getstream?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-La-1-Uhd.Jpg
+http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Be-Mad.Jpg
+http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Stv1.Jpg
+http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" tvg-id="La 1 HD" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-La1-.Jpg
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Gol-Tv.Jpg
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Stv2.Jpg
+http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-La-2.Jpg
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Es-1.Jpg
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Stv3.Jpg
+http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" tvg-id="Cuatro HD" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Cuatro.Jpg
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Es-2.Jpg
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Barsa-Tv.Jpg
+http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-T5.Jpg
+http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Bsn.Jpg
+http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Td.Jpg
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Image Links", Https://Www.Misterchire.Com/Wp-Content/Uploads/2023/09/Icono-Dz-F1.Jpg
+http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Uncategorized", Ara Estos
+http://127.0.0.1:6878/ace/getstream?id=1a9085a7b8aa402f317fb86f7243f3736770b325
+#EXTINF:-1 tvg-logo="Canal Hollywood HD" tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="Uncategorized", Hollywood - New Era Iii
+http://127.0.0.1:6878/ace/getstream?id=0efe3e6352b68faf8ba8ea6fe91ad37fac3b1fba
